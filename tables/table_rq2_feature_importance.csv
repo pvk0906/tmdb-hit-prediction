@@ -1,0 +1,11 @@
+feature,importance,category
+log_popularity,0.08994438,Engagement
+log_budget,0.063329756,Financial
+genre_comedy,0.060404688,Genre
+genre_drama,0.05909034,Genre
+is_english,0.05526894,Language
+genre_horror,0.054162182,Genre
+release_year,0.05270209,Timing
+genre_science_fiction,0.052250944,Genre
+runtime,0.04797291,Content
+genre_thriller,0.047517665,Genre
